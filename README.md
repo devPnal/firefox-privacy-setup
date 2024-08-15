@@ -3,6 +3,13 @@
 - 본 목록에 있는 내용을 수행했을 때 일부 사이트나 결제 프로세스가 작동되지 않을 수 있습니다.
 - Some sites or payment processes might not work when you do something on this list.
 
+## reference
+
+ref1. https://web.archive.org/web/20221013104259/https://chrisx.xyz/blog/yet-another-firefox-hardening-guide/
+
+ref2. https://gogilove.wordpress.com/2019/05/02/firefox/
+
+
 ## in about:config
 
 ### Isolate cookie
